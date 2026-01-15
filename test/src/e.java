@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class e {
     public static void main(String[] args) {
         int a=0,max=0,min=1000000000,add=0;
         Scanner input = new Scanner(System.in);
